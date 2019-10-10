@@ -14,4 +14,4 @@ dos tipos de comandos
 ### Ejemplo de uso view
 **$npm start -- view --name="toxic rick"**
 
-*se mostraran por pantalla los datos de lo personajes cullo nombre coincida*
+*se mostraran por pantalla los datos de lo personajes cuyo nombre coincida*
